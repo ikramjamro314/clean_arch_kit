@@ -2,7 +2,7 @@ name: clean_arch_kit
 description: "A CLI toolkit for quickly generating clean architecture and modular Flutter project structures."
 version: 0.1.0
 
-homepage:
+repository: https://github.com/ikramjamro314/clean_arch_kit.git
 
 environment:
   sdk: ^3.11.5

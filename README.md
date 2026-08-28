@@ -1,18 +1,14 @@
+![Clean Arch Kit](./assets/banner.png)
+
+# Clean Arch Kit
+
+A CLI tool for generating Clean Architecture folder structures in Flutter projects.
+
 # Clean Arch Kit
 
 A CLI toolkit for quickly generating **Clean Architecture and modular project structures** for Flutter applications.
 
 > Build your Flutter project structure in seconds instead of manually creating dozens of folders and files.
-
----
-
-## 👨‍💻 About Me
-
-Hi, I'm **Ikram Jamro**, a Mobile Application Developer and Software Engineering student.
-
-I primarily work with **Flutter, Android, Kotlin, Java, Firebase, REST APIs, and modern application architectures**. While developing mobile applications, I found myself repeatedly creating the same Clean Architecture and feature-based folder structures for different projects.
-
-That's why I created **Clean Arch Kit** — a CLI tool designed to automate that repetitive work and provide a consistent, scalable starting structure for Flutter applications.
 
 ---
 

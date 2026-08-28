@@ -1,4 +1,4 @@
-![Clean Arch Kit](./banner.png)
+![Clean Arch Kit](./CLeanArch.png)
 
 # Clean Arch Kit
 
